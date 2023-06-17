@@ -1,5 +1,5 @@
 {
-  "name": "scrape-royalroad",
+  "name": "royalroad-to-epub",
   "version": "1.0.0",
   "type": "module",
   "description": "",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "epub-gen-memory": "^1.0.10",
     "node-html-parser": "^6.1.5",
     "ts-node": "^10.9.1"
   },
